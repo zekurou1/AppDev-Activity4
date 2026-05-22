@@ -1,6 +1,5 @@
 Vince:
-Introduction and Background
-Objectives and Scope
+Front-End
 
 Inaki:
-Presentation of Chosen Technology
+Back-End
